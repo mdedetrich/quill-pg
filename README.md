@@ -1,4 +1,4 @@
-# Quill-PG
+# quill-pg
 
 quill-pg contains Postgres (JDBC and postgres-async) extensions for [quill](https://github.com/getquill).
 It is analogous to [slick-pg](https://github.com/tminglei/slick-pg) for [slick](https://github.com/slick/slick)
