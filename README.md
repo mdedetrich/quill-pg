@@ -19,6 +19,7 @@ versions of quill and it needs to be tested properly
 - [X] Generic dependency/project structure
 - [ ] Tests
 - [ ] Better documentation
+- [ ] Integrate MIMA plugin to detect binary incompatible versions
 
 ## Code formatting
 
